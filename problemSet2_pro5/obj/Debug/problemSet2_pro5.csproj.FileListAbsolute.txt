@@ -1,0 +1,12 @@
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_pro5\problemSet2_pro5\bin\Debug\problemSet2_pro5.exe.config
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_pro5\problemSet2_pro5\bin\Debug\problemSet2_pro5.exe
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_pro5\problemSet2_pro5\bin\Debug\problemSet2_pro5.pdb
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_pro5\problemSet2_pro5\obj\Debug\problemSet2_pro5.PriceCalculatorForm.resources
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_pro5\problemSet2_pro5\obj\Debug\problemSet2_pro5.Properties.Resources.resources
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_pro5\problemSet2_pro5\obj\Debug\problemSet2_pro5.csproj.GenerateResource.Cache
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_pro5\problemSet2_pro5\obj\Debug\problemSet2_pro5.exe
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_pro5\problemSet2_pro5\obj\Debug\problemSet2_pro5.pdb
+c:\users\mhr\documents\visual studio 2013\Projects\day3\problemSet2_pro5\problemSet2_pro5\obj\Debug\problemSet2_pro5.csprojResolveAssemblyReference.cache
+C:\Users\Mhr\Documents\visual studio 2013\Projects\old_projects_git_up\Price Calculator App\problemSet2_pro5\bin\Debug\problemSet2_pro5.exe.config
+C:\Users\Mhr\Documents\visual studio 2013\Projects\old_projects_git_up\Price Calculator App\problemSet2_pro5\obj\Debug\problemSet2_pro5.exe
+C:\Users\Mhr\Documents\visual studio 2013\Projects\old_projects_git_up\Price Calculator App\problemSet2_pro5\obj\Debug\problemSet2_pro5.pdb
